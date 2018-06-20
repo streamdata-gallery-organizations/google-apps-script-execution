@@ -1,10 +1,11 @@
 ---
 name: Streadata.io API Gallery - Google Apps Script Execution
-description: This is a repository of  APIs, self-contained as a Github repository,
-  with HTML and YAML representations of the APIs and their surrounding operations.
+description: This is a repository of google apps script execution APIs, self-contained
+  as a Github repository, with HTML and YAML representations of the APIs and their
+  surrounding operations.
 image: http://template.streamdata.gallery/assets/google-apps-script-execution.png
 created: "2018-02-24"
-modified: "2018-05-21"
+modified: "2018-06-20"
 url: http://google-apps-script-execution.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []

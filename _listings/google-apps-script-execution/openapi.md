@@ -4,7 +4,7 @@ x-collection-name: Google Apps Script Execution
 x-complete: 1
 info:
   title: Google Apps Script Execution
-  description: executes-google-apps-script-projects
+  description: executes-google-apps-script-projects-
   contact:
     name: Google
     url: https://google.com
